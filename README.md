@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nabarun91221 ( Nabarun Middya )
-- 👀 I’m interested in Application Development
+- 👀 I’m interested in Web-Application Development
 - 🌱 I’m currently learning MERN stack 
 - 💞️ I’m looking to collaborate on any open sorce project
 - 📫 Email me : nabarunmiddya91221@gmail.com
